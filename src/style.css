@@ -1,7 +1,7 @@
 
 :root {
     --branding-color: #6c63ff;
-    --secondary-color: #f9f7fe;
+    --secondary-color: aliceblue;
     --heading-font-family: "Playfair Display", serif;
     --default-font-family: "Poppins", sans-serif;
 }
@@ -96,4 +96,14 @@ p {
         padding: 0;
         text-align: center;
     }
+}
+
+.about-page{
+    margin: 20px 70px;
+}
+
+.email-link{
+    align-items: center;
+    margin-left: 600px;
+    font-size: larger;
 }
